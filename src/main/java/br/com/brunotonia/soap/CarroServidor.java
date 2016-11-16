@@ -1,7 +1,6 @@
 package br.com.brunotonia.soap;
 
 import br.com.brunotonia.soap.vo.Carro;
-import java.util.List;
 import javax.jws.WebService;
 import javax.jws.WebMethod;
 import javax.jws.soap.SOAPBinding;
